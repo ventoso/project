@@ -3,6 +3,7 @@ title: Python绘图(turtle库)初探
 date: 2020-02-05
 sidebar: 'auto'
 categories:
+- All
 - Python
 tags:
  - Python

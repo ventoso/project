@@ -3,6 +3,7 @@ title: Python基本语法元素
 date: 2020-02-03
 sidebar: 'auto'
 categories:
+- All
 - Python
 tags:
  - Python

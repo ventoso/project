@@ -3,6 +3,7 @@ title: Python基本数据类型
 date: 2020-3-1
 sidebar: 'auto'
 categories:
+- All
 - Python
 tags:
  - Python

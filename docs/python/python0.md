@@ -3,6 +3,7 @@ title: Python基本介绍
 date: 2020-02-01
 sidebar: 'auto'
 categories:
+- All
 - Python
 tags:
  - Python
