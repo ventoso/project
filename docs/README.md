@@ -1,6 +1,5 @@
 ---
 home: true
-navbar: false
 heroImage: https://cdn.ventoso.top/wordpress/favicon.ico
 heroText: Ventoso | Project
 tagline: 存在只是为了提高博客性能......
