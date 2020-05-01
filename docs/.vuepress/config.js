@@ -1,7 +1,7 @@
 module.exports = {
     title: 'Ventoso | project',
     description: 'Ventoso学习笔记',
-    permalink: "/:slug",
+    permalink: "/:regular",
     head: [
         ['link', {
             rel: 'stylesheet',
