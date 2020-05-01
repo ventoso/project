@@ -1,7 +1,6 @@
 module.exports = {
     title: 'Ventoso | project',
     description: 'Ventoso学习笔记',
-    base: '/dist/',
     permalink: "/:slug",
     head: [
         ['link', {
