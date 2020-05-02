@@ -33,7 +33,7 @@ module.exports = {
         ariaLabel: 'Links',
         icon: 'reco-menu',
         items: [
-            { text: 'Blog', link: 'https://ventoso.top/', icon: 'reco-blog' },
+            { text: 'Blog', link: 'https://ventoso.cn/', icon: 'reco-blog' },
             { text: 'List', link: 'https:list.ventoso.top/', icon: 'reco-menu' },
                 ]
       },
