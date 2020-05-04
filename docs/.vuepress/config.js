@@ -25,6 +25,7 @@ module.exports = {
     },
   theme: 'reco',
   themeConfig: {
+          sidebarDepth: 1,
           modePicker: false, // 默认 true，false 不显示模式调节按钮，true 则显示
           nav: [
       { text: 'TimeLine', link: '/timeline/', icon: 'reco-date' },
